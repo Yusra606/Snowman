@@ -1,0 +1,7 @@
+print("Y   Y  FFFFF")
+print(" Y Y   F")
+print("  Y    F")
+print("  Y    FFF")
+print("  Y    F")
+print("  Y    F")
+print("  Y    F")
